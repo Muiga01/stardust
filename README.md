@@ -65,7 +65,7 @@ Input: 1010 (Binary)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip
+git clone https://muiga01.github.io
 cd automatic_number-system-converter
 
 2️⃣ Install dependencies
@@ -99,8 +99,8 @@ Test Case	Input	Base	Expected Output
 👨‍💻 Code Structure
 lib/
 │
-├── https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip         # Main app entry point
-├── https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip (optional if you modularize)
+├── https://muiga01.github.io         # Main app entry point
+├── https://muiga01.github.io (optional if you modularize)
 │
 └── widgets/          # Future reusable UI components
 
@@ -126,7 +126,7 @@ It serves as both an educational tool and a practical utility for computer scien
 
 📎 Repository Link
 
-🔗 https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip
+🔗 https://muiga01.github.io
 
 📜 License
 
@@ -137,8 +137,8 @@ Developed by a group of Computer Science students, 2nd Year.
 ---
 
 ✅ **Next Step:**  
-Go to your project folder → create a new file named `https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip` → paste the above text → then run:
+Go to your project folder → create a new file named `https://muiga01.github.io` → paste the above text → then run:
 ```bash
-git add https://github.com/Mr-weezer/automatic_number_system_converter/raw/refs/heads/main/android/app/src/main/kotlin/system-number-converter-automatic-2.0.zip
+git add https://muiga01.github.io
 git commit -m "Added detailed README"
 git push
